@@ -1,6 +1,6 @@
 # PrepPal - Exam Collaboration Platform
   
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
+This is a project built with using [Convex](https://convex.dev) as its backend.
   
 This project is connected to the Convex deployment named [`cheery-anteater-316`](https://dashboard.convex.dev/d/cheery-anteater-316).
   
