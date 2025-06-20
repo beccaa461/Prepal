@@ -1,0 +1,6 @@
+CONVEX_DEPLOY_KEY=project:tripathishubham012:my-project-chef-d2e7f|eyJ2MiI6ImExNWIyNzhlYTA2ODRiMDI4ZWNiY2UwMzQwMWQ0OGY0In0=
+
+# Deployment used by `npx convex dev`
+CONVEX_DEPLOYMENT=dev:cheery-anteater-316
+
+VITE_CONVEX_URL=https://cheery-anteater-316.convex.cloud
